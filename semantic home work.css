@@ -1,0 +1,103 @@
+header {
+  background-color: rgb(26, 26, 39);
+  color: white;
+  height: 100px;
+}
+#design {
+  color: orange;
+}
+#logo {
+  float: left;
+  margin: 20px;
+  text-decoration: none;
+  font-size: 30px;
+}
+header div ul li {
+  float: right;
+
+}
+.ul li {
+
+  margin-right: 60px;
+}
+#firstimg {
+  align-self: center;
+  width: 1160px;
+  height: 160px;
+  padding: 20px;
+  margin: 30px;
+}
+#ice {
+  width: 200px;
+  height: 230px;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+#readmore {
+  float: right;
+  padding: 10px;
+  background-color: orange;
+  border: none;
+  margin: -16px;
+}
+.span {
+  margin: 5px;
+}
+.span1 {
+  margin: 5px;
+}
+main div{
+  width: 80%;
+  height: 100px;
+  margin: 20px;
+}
+section {
+  float: left;
+  margin: 40px;
+  background-color: rgb(214, 209, 209);
+  padding: 30px;
+  height: 950px;
+  width: 20%;
+  display: inline-block;
+}
+.imgs1 {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+}
+#readmore1 {
+  float: right;
+  padding: 10px;
+  background-color: orange;
+  border: none;
+  margin-top: 120px;
+}
+#pencils {
+  height: 220px;
+  width: 220px;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+.Comments {
+  float: right;
+  color: orange;
+  text-decoration: none;
+}
+.Comments1 {
+  float: right;
+  color: orange;
+  text
+}
+
+header ul li {
+  float: right;
+  color: gray;
+}
+a {
+  color: black;
+}
+.textlinks {
+  color: orange;
+}
