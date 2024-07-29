@@ -14,10 +14,8 @@ header {
 }
 header div ul li {
   float: right;
-
 }
 .ul li {
-
   margin-right: 60px;
 }
 #firstimg {
@@ -47,7 +45,7 @@ header div ul li {
 .span1 {
   margin: 5px;
 }
-main div{
+main div {
   width: 80%;
   height: 100px;
   margin: 20px;
@@ -55,7 +53,7 @@ main div{
 section {
   float: left;
   margin: 40px;
-  background-color: rgb(214, 209, 209);
+  background-color: rgb(233, 206, 206);
   padding: 30px;
   height: 950px;
   width: 20%;
