@@ -67,7 +67,7 @@ section {
 #readmore1 {
   float: right;
   padding: 10px;
-  background-color: orange;
+  background-color: rgb(255, 222, 160);
   border: none;
   margin-top: 120px;
 }
